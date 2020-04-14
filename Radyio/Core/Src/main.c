@@ -109,7 +109,7 @@ int main(void)
 	      if ( ret != HAL_OK ) {
 	        strcpy((char*)buf, "Error Tx\r\n");
 	      } else {
-
+	    	  	  //wysłanie komunikatu do radyjka
 
 	      }
 
